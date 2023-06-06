@@ -11,7 +11,7 @@
 | Multi-kernel 1D CNN with trainable embedding layer            | 0.246               | 0.288         |
 | Multi-kernel 1D CNN with pretrained Word2Vec embedding vectors| 0.249               | 0.287         |
 | LSTM with pretrained Word2Vec embedding vectors               | 0.276               | 0.302         |
-| Transformer with trainable embedding layer                    | 0.294               | 0.327         |
+| Transformer with trainable embedding layer                    | **0.294**           | **0.327**     |
 | Transformer with pretrained Word2Vec embedding vectors        | 0.232               | 0.270         |
 
 ## Inference 예시 (Transformer with trainable embedding layer)
