@@ -1,4 +1,8 @@
 # chatClassifier3
+- [chatClassifier](https://github.com/star-bits/chatClassifier)
+- [chatClassifier2](https://github.com/star-bits/chatClassifier2)
+
+문장만 보고 누가 쓴 건지 추측해보자
 
 - 2022년의 데이터는 train set, 2023년 1월의 데이터는 test set으로 이용함 (각각 93만개, 5만개)
 - 대화량 상위 62명의 데이터만 사용함 
